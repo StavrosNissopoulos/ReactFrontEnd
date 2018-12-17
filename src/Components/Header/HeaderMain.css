@@ -1,0 +1,7 @@
+ .ButtonLink {
+  margin: '8px';
+  border: '2px solid blue';
+  textAlign: 'right';
+   backgroundColor: '#D3D3D3';
+   float: 'right';
+}
